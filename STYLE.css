@@ -1,0 +1,81 @@
+.header{
+    color:blueviolet;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: chartreuse;
+}
+
+.origami1{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: red;
+}
+
+.origami2{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: gold;
+}
+
+.origami3{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: greenyellow;
+}
+
+.origami4{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: cyan;
+}
+
+.origami5{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: orange;
+}
+
+.dog{
+    color:black;
+    border:double;
+    background-color: orange;
+}
+
+.lion{
+    color:black;
+    border:double;
+    background-color: red;
+}
+
+.penguin{
+    color:black;
+    border:double;
+    background-color: cyan;
+}
+
+.rabbit{
+    color:black;
+    border:double;
+    background-color: lightgreen;
+}
+
+.cat{
+    color:black;
+    border:double;
+    background-color: yellow;
+}
+
+a:visited{
+    color:yellow;
+}

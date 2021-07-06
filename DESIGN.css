@@ -1,0 +1,26 @@
+.header{color:blueviolet;
+        border:double;
+         display:flex;
+        justify-content:center;
+        background-color:gold;
+        }
+
+.body{
+        color:black;
+        border:dotted;
+        display:flex;
+        justify-content:space-between;
+        background-color: lawngreen;
+}
+
+a:visited{
+        color:yellow;
+}
+
+.footer{
+
+        border:dashed;
+        display:flex;
+        justify-content: start;
+        background-color: red;
+}
